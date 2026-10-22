@@ -233,7 +233,7 @@ function OpenApplicationLink() {
 }
 
 document.getElementById("GitHubLink").addEventListener("click", function() {
-    window.open("https://github.com/AdvikJha/EpistemLearning", "_blank");
+    window.open("https://github.com/AdvikJha/EpistemLearningWebsite", "_blank");
 });
 
 function OpenInstagramLink() {
