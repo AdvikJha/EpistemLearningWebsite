@@ -232,6 +232,10 @@ function OpenApplicationLink() {
     window.open("https://docs.google.com/forms/d/e/1FAIpQLSes9M5TfsNR7Wa0n4BM9N-zfUHUSrMDJzAqeNt8wIIZA8FKGA/viewform");
 }
 
+document.getElementById("GitHubLink").addEventListener("click", function() {
+    window.open("https://github.com/AdvikJha/EpistemLearning", "_blank");
+});
+
 function OpenInstagramLink() {
     window.open("https://www.instagram.com/epistem_learning/");
 }
